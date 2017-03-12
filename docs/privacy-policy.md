@@ -28,8 +28,8 @@ The following are the permissions required by the app, which are only requested 
 
 
 ### Links
-https://www.google.com/policies/privacy/  
-https://fabric.io/terms  
+[https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)  
+[https://fabric.io/terms](https://fabric.io/terms)  
 <br/>
 
 
