@@ -1,7 +1,7 @@
 # Privacy Policy
 
-Thanks for using Rec. 
-SPECTRL Limited ("we") only collect the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us - your use of the app; we don't sell any information to third parties.
+Thanks for using Rec.  
+SPECTRL Limited ("we") only collect the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us – your use of the app; we don't sell any information to third parties.
 
 While Rec. ("the app") provides shortcuts for uploading your recordings to various online video streaming and storage services, the app itself does not transmit or store your recordings anywhere other than on your device.
 
